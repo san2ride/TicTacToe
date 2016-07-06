@@ -107,6 +107,17 @@
                             <constraint firstItem="Zwk-sN-R25" firstAttribute="top" secondItem="mzS-JB-Pcp" secondAttribute="bottom" constant="91" id="k38-3G-bBP"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="eightButton" destination="aJV-Ix-voi" id="0Ac-Ud-HS6"/>
+                        <outlet property="fiveButton" destination="bdE-Wv-3sc" id="VXu-dO-dxk"/>
+                        <outlet property="fourButton" destination="yJx-4Y-UHk" id="VW2-pb-CUs"/>
+                        <outlet property="oneButton" destination="Nqk-u9-PRu" id="0iX-IA-gzK"/>
+                        <outlet property="sevenButton" destination="ez5-NS-DBD" id="bFu-Nl-78j"/>
+                        <outlet property="sixButton" destination="Srn-kc-Mbg" id="8z0-Bg-bJI"/>
+                        <outlet property="threeButton" destination="u3j-KX-4KO" id="bwe-VA-bQD"/>
+                        <outlet property="twoButton" destination="jNZ-5s-ozm" id="y1j-h1-ICA"/>
+                        <outlet property="zeroButton" destination="pVJ-D5-Wyl" id="H8O-Mr-WhO"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
